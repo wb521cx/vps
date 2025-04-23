@@ -2,7 +2,7 @@
 
 ## 安装内核
 ```shell
-bash <(curl -Ls [https://raw.githubusercontent.com/wb521cx/vps/refs/heads/main/bbr3.sh]
+bash <(curl -Ls https://raw.githubusercontent.com/wb521cx/vps/refs/heads/main/bbr3.sh)
 ```
 
 ### 启用 bbrv3
